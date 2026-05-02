@@ -1,0 +1,7 @@
+.vscode
+node_modules
+vendor
+composer.lock
+packaage-lock.json
+phpunit.json
+SPEC.md
